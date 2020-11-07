@@ -1,0 +1,1 @@
+[{"body": [{"type": "choose-symbol", "title": "选一选", "stem": "选一选，哪个是", "symbol": "等于号", "list": ["more", "less", "equal"]}], "answers": [2], "knowledges": ["比较符号的认识"], "resource": "", "explain": "", "level": "1", "type": "选择", "number": "1-1-4-02"}]

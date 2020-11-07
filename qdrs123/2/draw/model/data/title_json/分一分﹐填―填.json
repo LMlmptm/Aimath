@@ -1,0 +1,1062 @@
+[
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/背景用车/车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车4.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_4.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      3,
+      4,
+      1
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      3,
+      2,
+      3
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车4.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      5,
+      1
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_9.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_6.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      4,
+      2,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/小船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_8.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      3,
+      3,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车3.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_3.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      4,
+      2,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/飞机/飞机_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_9.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_8.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      5,
+      1,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/背景用车/车_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车2.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      1,
+      5,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/飞机/飞机_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_8.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_6.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      3,
+      2,
+      3
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车4.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      3,
+      4,
+      1
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_9.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      2,
+      4
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_8.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_9.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      4,
+      1,
+      3
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/车辆/卡车_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车3.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      3,
+      3
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/货船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_6.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      2,
+      4
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/轮船/小船_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车2.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      4,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/背景用车/车_3.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_8.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_6.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      3,
+      3,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/飞机/飞机_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车5.svg"
+          },
+          {
+            "src": "v2/通用/交通/背景用车/车_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_2.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      3,
+      3
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/背景用车/车_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游艇_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_10.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      3,
+      3
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_4.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/小船_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      2,
+      4
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  },
+  {
+    "body": [
+      {
+        "title": "分一分， 填一填",
+        "stem": "分一分， 填一填",
+        "content": [
+          {
+            "src": "v2/通用/交通/车辆/卡车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/游轮_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/轮船/货船_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_2.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/卡车_5.svg"
+          },
+          {
+            "src": "v2/通用/交通/飞机/飞机_7.svg"
+          },
+          {
+            "src": "v2/通用/交通/火车/火车_1.svg"
+          },
+          {
+            "src": "v2/通用/交通/车辆/自行车/自行车3.svg"
+          }
+        ],
+        "unitText": "个数",
+        "typeList": [
+          "天上飞的",
+          "地上跑的",
+          "水里游的"
+        ],
+        "type": "au-classify-transport",
+        "keyboardtype": "num"
+      }
+    ],
+    "answers": [
+      2,
+      4,
+      2
+    ],
+    "knowledges": "分类",
+    "resource": "resource",
+    "type": "填空",
+    "explain": "explain",
+    "level": "2",
+    "number": "1-4-1-11"
+  }
+]

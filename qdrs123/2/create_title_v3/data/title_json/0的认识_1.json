@@ -1,0 +1,1 @@
+[{"body": [{"type": "choose-zero", "title": "选一选", "stem": "哪张图中有", "num": 0, "list": ["zero_number/ad6ebf4e4db9fc2d14d30782acc509be.svg", "zero_number/132a687fd3a9fffb8d498304ec19b132.svg", "background/57f2ecaf3a133833e99a7db8cdf9f684.svg"]}], "answers": [0], "resource": "", "explain": "", "knowledges": ["0的认识"], "level": "1", "type": "选择", "number": "1-1-8-01"}]

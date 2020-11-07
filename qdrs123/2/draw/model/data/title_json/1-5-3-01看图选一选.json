@@ -1,0 +1,1 @@
+[{"body": [{"title": "看图选一选", "stem": "选一选，辰辰的哪只手拎着书包？", "personList": [{"name": "", "src": "v2/通用/人物/人物_front/辰辰.svg"}], "options": ["左", "右"], "type": "pos-sequence-select6"}], "answers": ["右"], "knowledges": ["认识左右"], "resource": "resource", "type": "选择", "explain": "explain", "level": "1", "number": "1-5-3-01"}]
